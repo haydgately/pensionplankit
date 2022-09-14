@@ -1,0 +1,77 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/master.swiftdeps"
+  },
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Entities/APIResponse.swift": {
+    "dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Entities/APIResponse.d",
+    "object": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Entities/APIResponse.swift.o",
+    "swiftmodule": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Entities/APIResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Entities/APIResponse.swiftdeps"
+  },
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Entities/Pot.swift": {
+    "dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Entities/Pot.d",
+    "object": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Entities/Pot.swift.o",
+    "swiftmodule": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Entities/Pot~partial.swiftmodule",
+    "swift-dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Entities/Pot.swiftdeps"
+  },
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Entities/Provider.swift": {
+    "dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Entities/Provider.d",
+    "object": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Entities/Provider.swift.o",
+    "swiftmodule": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Entities/Provider~partial.swiftmodule",
+    "swift-dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Entities/Provider.swiftdeps"
+  },
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Entities/Update.swift": {
+    "dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Entities/Update.d",
+    "object": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Entities/Update.swift.o",
+    "swiftmodule": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Entities/Update~partial.swiftmodule",
+    "swift-dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Entities/Update.swiftdeps"
+  },
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Extensions/AnyJSON.swift": {
+    "dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Extensions/AnyJSON.d",
+    "object": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Extensions/AnyJSON.swift.o",
+    "swiftmodule": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Extensions/AnyJSON~partial.swiftmodule",
+    "swift-dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Extensions/AnyJSON.swiftdeps"
+  },
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Extensions/Paths.swift": {
+    "dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Extensions/Paths.d",
+    "object": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Extensions/Paths.swift.o",
+    "swiftmodule": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Extensions/Paths~partial.swiftmodule",
+    "swift-dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Extensions/Paths.swiftdeps"
+  },
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Extensions/StringCodingKey.swift": {
+    "dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Extensions/StringCodingKey.d",
+    "object": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Extensions/StringCodingKey.swift.o",
+    "swiftmodule": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Extensions/StringCodingKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Extensions/StringCodingKey.swiftdeps"
+  },
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Paths/PathsPot.swift": {
+    "dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsPot.d",
+    "object": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsPot.swift.o",
+    "swiftmodule": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsPot~partial.swiftmodule",
+    "swift-dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsPot.swiftdeps"
+  },
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Paths/PathsPotWithPotID.swift": {
+    "dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsPotWithPotID.d",
+    "object": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsPotWithPotID.swift.o",
+    "swiftmodule": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsPotWithPotID~partial.swiftmodule",
+    "swift-dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsPotWithPotID.swiftdeps"
+  },
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Paths/PathsPots.swift": {
+    "dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsPots.d",
+    "object": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsPots.swift.o",
+    "swiftmodule": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsPots~partial.swiftmodule",
+    "swift-dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsPots.swiftdeps"
+  },
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Paths/PathsProvider.swift": {
+    "dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsProvider.d",
+    "object": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsProvider.swift.o",
+    "swiftmodule": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsProvider.swiftdeps"
+  },
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Paths/PathsProviders.swift": {
+    "dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsProviders.d",
+    "object": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsProviders.swift.o",
+    "swiftmodule": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsProviders~partial.swiftmodule",
+    "swift-dependencies": "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/Paths/PathsProviders.swiftdeps"
+  }
+}

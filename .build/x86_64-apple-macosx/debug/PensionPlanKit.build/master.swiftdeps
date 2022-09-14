@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "29e5dd57464a41f3c575366ffa9009742f57a13264e2d8c138e5d23caee7e281"
+build_start_time: [1663152846, 378684043]
+build_end_time: [1663152847, 315526962]
+inputs:
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Entities/APIResponse.swift": [1663079960, 771756887]
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Entities/Pot.swift": [1663079960, 786468744]
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Entities/Provider.swift": [1663079960, 818835735]
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Entities/Update.swift": [1663079960, 802238941]
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Extensions/AnyJSON.swift": [1663079960, 848909378]
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Extensions/Paths.swift": [1663079960, 840777873]
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Extensions/StringCodingKey.swift": [1663079960, 833424568]
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Paths/PathsPot.swift": [1663079960, 793527126]
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Paths/PathsPotWithPotID.swift": [1663079960, 826276779]
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Paths/PathsPots.swift": [1663079960, 810307264]
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Paths/PathsProvider.swift": [1663079960, 778890848]
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/Sources/Paths/PathsProviders.swift": [1663067163, 39000511]

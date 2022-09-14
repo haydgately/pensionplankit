@@ -1,0 +1,4 @@
+module PensionPlanKit {
+    header "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/x86_64-apple-macosx/debug/PensionPlanKit.build/PensionPlanKit-Swift.h"
+    requires objc
+}

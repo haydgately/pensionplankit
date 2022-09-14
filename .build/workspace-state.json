@@ -1,0 +1,27 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "get",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/kean/Get",
+          "name" : "Get"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "f0795a24f4864152c47c444c0163088b4510ac5b",
+            "version" : "1.0.3"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "Get"
+      }
+    ]
+  },
+  "version" : 5
+}

@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "081a611a0ad93575fa6fc7cfdf321325bb490eb5a2115f6c3115ccf13179ba28"
+build_start_time: [1663152845, 244856834]
+build_end_time: [1663152846, 230803966]
+inputs:
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/checkouts/Get/Sources/Get/APIClient.swift": [1663152843, 615270376]
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/checkouts/Get/Sources/Get/APIClientDelegate.swift": [1663152843, 615839958]
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/checkouts/Get/Sources/Get/DataLoader.swift": [1663152843, 616445064]
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/checkouts/Get/Sources/Get/Request.swift": [1663152843, 638950824]
+  "/Users/hgately/Documents/GitHub/pension_plan_kit/.build/checkouts/Get/Sources/Get/Response.swift": [1663152843, 639237165]
